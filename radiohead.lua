@@ -16,11 +16,11 @@ plugin.commands['/radiohead'] = {
 		if member == "thom" then
 			if ply.gender == 1 then
 			ply.human.head = 0
-    		ply.human.eyeColor = 6
-    		ply.human.hair = 6
-    		ply.human.hairColor = 4
-    		ply.human.skinColor = 2
-    		creep.human.lastUpdatedWantedGroup = -1
+    			ply.human.eyeColor = 6
+    			ply.human.hair = 6
+    			ply.human.hairColor = 4
+    			ply.human.skinColor = 2
+    			creep.human.lastUpdatedWantedGroup = -1
 			creep:sendMessage("You feel like a creep.")
 		else 
 			creep:sendMessage("Sorry, boys only!")
@@ -28,11 +28,11 @@ plugin.commands['/radiohead'] = {
 		elseif member == "colin" then
 			if ply.gender == 1 then
 			ply.human.head = 1
-    		ply.human.eyeColor = 4
-    		ply.human.hair = 7
-    		ply.human.hairColor = 0
-    		ply.human.skinColor = 4
-    		creep.human.lastUpdatedWantedGroup = -1
+    			ply.human.eyeColor = 4
+    			ply.human.hair = 7
+    			ply.human.hairColor = 0
+    			ply.human.skinColor = 4
+    			creep.human.lastUpdatedWantedGroup = -1
 			creep:sendMessage("You feel like a creep.")
 		else 
 			creep:sendMessage("Sorry, boys only!")
@@ -40,11 +40,11 @@ plugin.commands['/radiohead'] = {
 		elseif member == "phil" then
 			if ply.gender == 1 then
 			ply.human.head = 3
-    		ply.human.eyeColor = 6
-    		ply.human.hair = -1
-    		ply.human.hairColor = 4
-    		ply.human.skinColor = 2
-    		creep.human.lastUpdatedWantedGroup = -1
+    			ply.human.eyeColor = 6
+    			ply.human.hair = -1
+    			ply.human.hairColor = 4
+    			ply.human.skinColor = 2
+    			creep.human.lastUpdatedWantedGroup = -1
 			creep:sendMessage("You feel like a creep.")
 		else 
 			creep:sendMessage("Sorry, boys only!")
@@ -52,11 +52,11 @@ plugin.commands['/radiohead'] = {
 		elseif member == "ed" then
 			if ply.gender == 1 then
 			ply.human.head = 4
-    		ply.human.eyeColor = 6
-    		ply.human.hair = 0
-    		ply.human.hairColor = 1
-    		ply.human.skinColor = 0
-    		creep.human.lastUpdatedWantedGroup = -1
+    			ply.human.eyeColor = 6
+    			ply.human.hair = 0
+    			ply.human.hairColor = 1
+    			ply.human.skinColor = 0
+    			creep.human.lastUpdatedWantedGroup = -1
 			creep:sendMessage("You feel like a creep.")
 		else 
 			creep:sendMessage("Sorry, boys only!")
@@ -64,11 +64,11 @@ plugin.commands['/radiohead'] = {
 		elseif member == "jonny" then
 			if ply.gender == 1 then
 			ply.human.head = 0
-    		ply.human.eyeColor = 2
-    		ply.human.hair = 7
-    		ply.human.hairColor = 0
-    		ply.human.skinColor = 2
-    		creep.human.lastUpdatedWantedGroup = -1
+    			ply.human.eyeColor = 2
+    			ply.human.hair = 7
+    			ply.human.hairColor = 0
+    			ply.human.skinColor = 2
+    			creep.human.lastUpdatedWantedGroup = -1
 			creep:sendMessage("You feel like a creep.")
 		else 
 			creep:sendMessage("Sorry, boys only!")
